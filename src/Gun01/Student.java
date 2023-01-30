@@ -6,6 +6,8 @@ public class Student {
 
         System.out.println("task2 ");
 
+        System.out.println("task 3 ");
+
 
 
 
